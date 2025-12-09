@@ -1,0 +1,15 @@
+{
+  "name": "telegram-client-server",
+  "version": "1.0.0",
+  "description": "Telegramdan xabar va sahifa HTML yuboruvchi loyiha",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "form-data": "^4.0.0"
+  }
+}
